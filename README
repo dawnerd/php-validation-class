@@ -1,0 +1,25 @@
+/*
+ |-------------------------------------------------------
+ | Validation Class, written by Troy Whiteley: 2008
+ | Version: 1.0
+ |-------------------------------------------------------
+ |
+ | License:
+ | The following code is licensed under the Buy Me Dew
+ | license. Essentially you can use this code however
+ | you want, all I ask if that you buy me some
+ | Mountain Dew. I see it as a fair trade off:
+ | I work a few hours and give you a free script
+ | and you give me some caffeine so I can make more
+ | free scripts. Oh, and you have to keep this little
+ | blob of text so others know to buy me some Dew.
+ | http://dawnerd.com/license/
+ |
+ |-------------------------------------------------------- 
+ |
+ | Provides a simple way to perform validation on
+ | POST and GET variables. Can verify many data formats
+ | and prevent against XSS attacks.
+ |
+ |--------------------------------------------------------
+*/
